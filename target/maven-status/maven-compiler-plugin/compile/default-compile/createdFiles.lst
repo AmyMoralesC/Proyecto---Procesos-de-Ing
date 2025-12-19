@@ -1,0 +1,15 @@
+Controller\AuthFilter.class
+Servicio\servicio.class
+Servicio\servicioUsuario.class
+Modelos\usuario.class
+Controller\DashboardController.class
+com\mycompany\generadordetickets2\resources\JakartaEE10Resource.class
+Modelos\ticket.class
+Controller\TicketController.class
+Controller\UiUtil.class
+Controller\AuthController.class
+Controller\PerfilController.class
+Servicio\servicioTicket.class
+Controller\UsuarioController.class
+com\mycompany\generadordetickets2\JakartaRestConfiguration.class
+Controller\TemplateUtil.class
